@@ -21,6 +21,9 @@ Play against a **normal AI opponent** with a **pink ball** and a scoring system.
 2. Install Pygame:
    ```bash
    pip install pygame
+   Run the game:
+   python pong.py
+
 ## Authors
 - AmirSahand Haeri
 - Shirin Abdolahzadeh
